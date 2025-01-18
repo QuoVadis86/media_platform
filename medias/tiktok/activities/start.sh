@@ -1,0 +1,1 @@
+adb shell monkey -p com.zhiliaoapp.musically -c android.intent.category.LAUNCHER 1
